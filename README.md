@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Projects & Prototypes </h2> 
 
-<a href ="https://github.com/VenexCon/Rock-Paper-Scissors"><h2> Rock, Paper, Scissors </h2> </a> 
+<a href ="https://github.com/VenexCon/Rock-Paper-Scissors"><h3> Rock, Paper, Scissors </h3> </a> 
 
 <p> This project was to have the player select an option and play a game of rock, apper, scissors against a randomly generated computer option. This originally started as a console game, and then subsequntly became interactive through dom manipulation. The oriignal selectors were buttons, but changed to image based divs' using CSS effects to create a more responsive feel. There is a readMe within the project file and a list of further additions. </p>
