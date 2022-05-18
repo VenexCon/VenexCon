@@ -17,3 +17,14 @@ You can click the Preview link to take a look at your changes.
 
 <p> This project was to have the player select an option and play a game of rock, apper, scissors against a randomly generated computer option. This originally started as a console game, and then subsequntly became interactive through dom manipulation. The oriignal selectors were buttons, but changed to image based divs' using CSS effects to create a more responsive feel. There is a readMe within the project file and a list of further additions. </p>
  
+<hr> 
+
+<a href ="https://github.com/VenexCon/Project-Etch-a-Sketch"><h3> Etch-a-Sketch Project </h3> </a>
+
+<p> This project was to create a live recreation of the kids game Etch-a-Sketch, obviously wiht some limitations. This project tested DOM manioulation to a higher degree as well as using nodelists and the command of CSS:Grid and Flex. This game did stump me on a few occasions but has since proved invalubale in cemetning the use of loops, functions, clalbacks and ES6 syntax. I did struggle to ensure the grid was responsivle, and had trouble with container blow-out, but this was all fixed with the help of css-tricks.com and MDN docs. There is still one outstanding task i have on this project but it functions well and meets the requirements of the design.
+ 
+The adiditional extra also includes a random generator for an item for the person to paint.
+ 
+ <a href ="https://venexcon.github.io/Project-Etch-a-Sketch/"> <h5> Check out the live version here</h5></a> 
+ 
+ <hr>
