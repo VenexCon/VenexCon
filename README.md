@@ -16,7 +16,11 @@ You can click the Preview link to take a look at your changes.
 <a href ="https://github.com/VenexCon/Rock-Paper-Scissors"><h3> Rock, Paper, Scissors </h3> </a> 
 
 <p> This project was to have the player select an option and play a game of rock, apper, scissors against a randomly generated computer option. This originally started as a console game, and then subsequntly became interactive through dom manipulation. The oriignal selectors were buttons, but changed to image based divs' using CSS effects to create a more responsive feel. There is a readMe within the project file and a list of further additions. </p>
- 
+
+<p> This was one of my very first projects utilising DOM manipulation. I also found that game design is an area that I am glad to have been exposed too, but not something I am hugely passionate about </p>
+
+<a href = "https://venexcon.github.io/Rock-Paper-Scissors/"><h5>Check out the live version here </h5></a>
+
 <hr> 
 
 <a href ="https://github.com/VenexCon/Project-Etch-a-Sketch"><h3> Etch-a-Sketch Project </h3> </a>
