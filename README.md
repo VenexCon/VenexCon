@@ -46,10 +46,7 @@ The adiditional extra also includes a random generator for an item for the perso
 <hr>
 
 <h3>Libary Project</h3> 
-<h4> link to live version https://venexcon.github.io/Libary-/</h4>
-<hr>
-<h4>Libary Project</h4>
-<hr> 
+<h4> link to live version https://venexcon.github.io/Libary-/</h4> 
 
 <p> This project was intended to showcase the use of constructors, 
     DOM manipulation and limited array functions. I emphasised good commits
@@ -57,4 +54,5 @@ The adiditional extra also includes a random generator for an item for the perso
 
 <p>This code went through multiple refactors in relation to the main script.JS, and although it works much better than the first iteration, there are improvements to be made. </p>
 <p>No local storage was used, in the project</p>
+
 <hr> 
