@@ -28,3 +28,16 @@ The adiditional extra also includes a random generator for an item for the perso
  <a href ="https://venexcon.github.io/Project-Etch-a-Sketch/"> <h5> Check out the live version here</h5></a> 
  
  <hr>
+ 
+<a href = "https://github.com/VenexCon/Resturant-Page"><h3>Resturant Page Project </h3></>
+
+<h4> Packages </h4>
+
+<p> This project was completed using Webpack 5, JS and SCSS. This project was to aid in developing a reactive design and using JS to dynamically load DOM elements. </P>
+<p> Packages included webpack CLI, SASS DART loader, and other assorted loaders and assets. </P>
+<p> This project was completed as part of The Odin Project and focuses on dynamically created elements using JS to render and create the indiviudal components </p> 
+
+<a href = "https://venexcon.github.io/Resturant-Page/#"> <h5> Click here to view the live version </h5></a>
+
+<hr>
+
