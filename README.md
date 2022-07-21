@@ -45,7 +45,7 @@ The adiditional extra also includes a random generator for an item for the perso
 
 <hr>
 
-<h3>Libary Project</h3> 
+<a href = "https://github.com/VenexCon/Libary-"><h3>Libary Project</h3> </a>
 <h4> link to live version https://venexcon.github.io/Libary-/</h4> 
 
 <p> This project was intended to showcase the use of constructors, 
