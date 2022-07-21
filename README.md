@@ -29,7 +29,7 @@ The adiditional extra also includes a random generator for an item for the perso
  
  <hr>
  
-<a href = "https://github.com/VenexCon/Resturant-Page"><h3>Resturant Page Project </h3></>
+<a href = "https://github.com/VenexCon/Resturant-Page"><h3>Resturant Page Project </h3></a>
 
 <h4> Packages </h4>
 
