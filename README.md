@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into Website Development and Front-end programming. I am currently working through The Odin Project and about to finish the fundamentals course. I am looking to move onto the full-stack javaScript course. 
-- 👀 I’m interested in getting a good grasp of Javascript & HTML5 to change career into a web developer role. 
-- 🌱 I’m currently learning HTML & JS from Freecodecamp, you don't know JS Series and youtube tutorials 
-- I am currently completeing the FreeCodeCamp projects, this is to aid in the learning and complimenting the learning from The Odin Project. 
+- 👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into Website Development and Front-end programming. I am currently working through The Odin Project's intermediate JavaScript Course.
+- 🌱 I’m currently learning JavaScript through The Odin Project and REACT through Traversy's UDEMY course. 
+- So far I have approcahed two businesses and sucefuully delivered two landing page websites.  
 
 <!---
 VenexCon/VenexCon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
