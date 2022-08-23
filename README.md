@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into Website Development and Front-end programming. I am currently working through The Odin Project's intermediate JavaScript Course.
 - 🌱 I’m currently learning JavaScript through The Odin Project and REACT through Traversy's UDEMY course. 
-- So far I have approcahed two businesses and sucefuully delivered two landing page websites.  
+- So far I have approcahed two businesses and successfully delivered two landing page websites.  
 
 <!---
 VenexCon/VenexCon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
