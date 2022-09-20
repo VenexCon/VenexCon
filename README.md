@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <a target="_blank" href = "https://www.primebarber.co.uk/"><h3>PRIME Barbers Website</h3></a>
 <p>This website was created for a local barbershop that did not currently have one. This is a work in progress but the styling and content is 95% of the way there. I approached the local barber and asked if he would be interested in having a website that would showcase his business with a sleek and modern design. This website was created from a basic template, where the whole website is built within media queries, with the site becoming responsive, dependant upon the size of the desktop (vw). </p>
-<p>This was made using VS code, and Koala for the LESS compilation. The initial color scheme and pictures were chosen with the client, with regular updateso n the progress and where input was required. No detailed design was put foward, but a sample of other sites were chosen prior to work beginning along side other desired styling.</p>
+<p>This was made using VS code, and Koala for the LESS compilation. The initial color scheme and pictures were chosen with the client, with regular updates on website progress along with requests for client input where required. No detailed design was put foward, so a sample of other sites were chosen prior to work beginning on the design of the site.</p>
 
 <hr>
 
