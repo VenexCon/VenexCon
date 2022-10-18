@@ -38,7 +38,7 @@ The adiditional extra also includes a random generator for an item for the perso
 <p> Packages included webpack CLI, SASS DART loader, and other assorted loaders and assets. </P>
 <p> This project was completed as part of The Odin Project and focuses on dynamically created elements using JS to render and create the indiviudal components </p> 
 
-<a href = "https://venexcon.github.io/Resturant-Page/#"> <h5> Click here to view the live version </h5></a>
+<h5><a href = "https://venexcon.github.io/Resturant-Page/#">Click here to view the live version</a></h5>
 
 <hr>
 
