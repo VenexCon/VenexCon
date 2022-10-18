@@ -3,7 +3,7 @@
 - I’m currently learning JavaScript through The Odin Project and REACT through Traversy's UDEMY course. 
 - For enquiries please contact <strong>venexconsultant@outlook.com</strong>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenexCon)](https://github.com/VenexCon/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenexCon)](https://github.com/VenexCon/github-readme-stats)
 </div>
 
 <h2> Projects & Prototypes </h2> 
