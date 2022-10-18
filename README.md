@@ -12,7 +12,7 @@
 <p>This was made using VS code, and Koala for the LESS compilation. The initial color scheme and pictures were chosen with the client, with regular updates on website progress along with requests for client input where required. No detailed design was put foward, so a sample of other sites were chosen prior to work beginning on the design of the site.</p>
 
 <hr>
-<a href = "https://bright-custard-4973e6.netlify.app/"><h3> Github Finder </h3></a>
+<h3><a href = "https://bright-custard-4973e6.netlify.app/">Github Finder</a></h3>
 
 <p> This was my first foray into React.js and it was as part of Traversy Medias React Front-To-Back 2022 React course. This app utilise useState, useContext, and reducer functions to search Github and display users information and repos. This project although simple did help expose me to alot of React's features and aided in becoming familiar with functional components and how React manipulates the DOM object. I did supplement these learnings by checking out the React docs, and other online resources to gain a deeper knowledge of React hooks and props. I am concious of becoming stuck in tutorial hell, so I have decided to recreate the Weather Hazard App utilising React. <p>
  
