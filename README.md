@@ -20,17 +20,17 @@
 
 <hr> 
 
-<a href ="https://github.com/VenexCon/Project-Etch-a-Sketch"><h3> Etch-a-Sketch Project </h3> </a>
+<h3><a href ="https://github.com/VenexCon/Project-Etch-a-Sketch"> Etch-a-Sketch Project</a></h3>
 
 <p> This project was to create a live recreation of the kids game Etch-a-Sketch, obviously wiht some limitations. This project tested DOM manioulation to a higher degree as well as using nodelists and the command of CSS:Grid and Flex. This game did stump me on a few occasions but has since proved invalubale in cemetning the use of loops, functions, clalbacks and ES6 syntax. I did struggle to ensure the grid was responsivle, and had trouble with container blow-out, but this was all fixed with the help of css-tricks.com and MDN docs. There is still one outstanding task i have on this project but it functions well and meets the requirements of the design.
  
 The adiditional extra also includes a random generator for an item for the person to paint.
  
- <a href ="https://venexcon.github.io/Project-Etch-a-Sketch/"> <h5> Check out the live version here</h5></a> 
+ <h5><a href ="https://venexcon.github.io/Project-Etch-a-Sketch/">Check out the live version here</a></h5>
  
  <hr>
  
-<a href = "https://github.com/VenexCon/Resturant-Page"><h3>Resturant Page Project </h3></a>
+<h3><a href = "https://github.com/VenexCon/Resturant-Page">Resturant Page Project</a></h3>
 
 <h4> Packages </h4>
 
@@ -43,7 +43,7 @@ The adiditional extra also includes a random generator for an item for the perso
 <hr>
 
 <a href = "https://github.com/VenexCon/Libary-"><h3>Libary Project</h3> </a>
-<h4> link to live version https://venexcon.github.io/Libary-/</h4> 
+<h4><a href ="https://venexcon.github.io/Libary-/">link to live version </a></h4> 
 
 <p> This project was intended to showcase the use of constructors, 
     DOM manipulation and limited array functions. I emphasised good commits
