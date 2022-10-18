@@ -12,14 +12,11 @@
 <p>This was made using VS code, and Koala for the LESS compilation. The initial color scheme and pictures were chosen with the client, with regular updates on website progress along with requests for client input where required. No detailed design was put foward, so a sample of other sites were chosen prior to work beginning on the design of the site.</p>
 
 <hr>
+<a href = "https://bright-custard-4973e6.netlify.app/"><h3> Github Finder </h3></a>
 
-<a href ="https://github.com/VenexCon/Rock-Paper-Scissors"><h3> Rock, Paper, Scissors </h3> </a> 
-
-<p> This project was to have the player select an option and play a game of rock, apper, scissors against a randomly generated computer option. This originally started as a console game, and then subsequntly became interactive through dom manipulation. The oriignal selectors were buttons, but changed to image based divs' using CSS effects to create a more responsive feel. There is a readMe within the project file and a list of further additions. </p>
-
-<p> This was one of my very first projects utilising DOM manipulation. I also found that game design is an area that I am glad to have been exposed too, but not something I am hugely passionate about </p>
-
-<a href = "https://venexcon.github.io/Rock-Paper-Scissors/"><h5>Check out the live version here </h5></a>
+<p> This was my first foray into React.js and it was as part of Traversy Medias React Front-To-Back 2022 React course. This app utilise useState, useContext, and reducer functions to search Github and display users information and repos. This project although simple did help expose me to alot of React's features and aided in becoming familiar with functional components and how React manipulates the DOM object. I did supplement these learnings by checking out the React docs, and other online resources to gain a deeper knowledge of React hooks and props. I am concious of becoming stuck in tutorial hell, so I have decided to recreate the Weather Hazard App utilising React. <p>
+ 
+<p> Check out the live version by clicking the above link, or click the repo <a href ="https://github.com/VenexCon/Github--Finder-React"> Here </a></P
 
 <hr> 
 
