@@ -20,13 +20,12 @@
 
 <hr> 
 
-<h3><a href ="https://github.com/VenexCon/Project-Etch-a-Sketch"> Etch-a-Sketch Project</a></h3>
+<h3><a href ="https://github.com/VenexCon/CV-project">C.V Creator</a></h3>
 
-<p> This project was to create a live recreation of the kids game Etch-a-Sketch, obviously wiht some limitations. This project tested DOM manioulation to a higher degree as well as using nodelists and the command of CSS:Grid and Flex. This game did stump me on a few occasions but has since proved invalubale in cemetning the use of loops, functions, clalbacks and ES6 syntax. I did struggle to ensure the grid was responsivle, and had trouble with container blow-out, but this was all fixed with the help of css-tricks.com and MDN docs. There is still one outstanding task i have on this project but it functions well and meets the requirements of the design.
+<p> This project utilised REACT.js to enable a user to create a CV within the browser. This can then be printed to PDF, and used for occupation applications.
+This project relies on the UseState hook, React's conditional rendering and prop functions. This enables the user to switch between a preview view and an edit view, with easy to use and clear UI design.</p>
  
-The adiditional extra also includes a random generator for an item for the person to paint.
- 
- <h5><a href ="https://venexcon.github.io/Project-Etch-a-Sketch/">Check out the live version here</a></h5>
+ <h5><a href ="https://whimsical-sopapillas-1efcc0.netlify.app">Check out the live version here</a></h5>
  
  <hr>
  
