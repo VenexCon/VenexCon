@@ -4,6 +4,7 @@
 - For enquiries please contact <strong>venexconsultant@outlook.com</strong>
  
  <p align="center">
+ <h3>Competencies</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,javascript,html,css,scss,tailwind,firebase" />
   </a>
