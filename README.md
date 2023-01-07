@@ -1,5 +1,6 @@
 <div>
-👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into Website Development and Front-end programming. I am currently working through The Odin Project's intermediate JavaScript Course & TraversyMedia's React cirriculum. 
+ <h1>About Me!</h1>
+ 👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into Website Development and Front-end programming. I am currently working through The Odin Project's intermediate JavaScript Course & TraversyMedia's React cirriculum. 
 
 - I’m currently learning JavaScript through The Odin Project and REACT through Traversy's UDEMY course. 
 
