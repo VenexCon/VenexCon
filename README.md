@@ -26,7 +26,7 @@
 
 <p> This was my first foray into React.js and it was as part of Traversy Medias React Front-To-Back 2022 React course. This app utilise useState, useContext, and reducer functions to search Github and display users information and repos. This project although simple did help expose me to alot of React's features and aided in becoming familiar with functional components and how React manipulates the DOM object. I did supplement these learnings by checking out the React docs, and other online resources to gain a deeper knowledge of React hooks and props. I am concious of becoming stuck in tutorial hell, so I have decided to recreate the Weather Hazard App utilising React. <p>
  
-<p> Check out the live version by clicking the above link, or click the repo <a href ="https://github.com/VenexCon/Github--Finder-React"> Here </a></P
+<p> Check out the live version by clicking the above link, or click the repo <a href ="https://github.com/VenexCon/Github--Finder-React"> Here </a></P>
 
 <hr> 
 
@@ -36,29 +36,6 @@
 This project relies on the UseState hook, React's conditional rendering and prop functions. This enables the user to switch between a preview view and an edit view, with easy to use and clear UI design.</p>
  
 <h5><a href ="https://whimsical-sopapillas-1efcc0.netlify.app">Check out the live version here</a></h5>
- 
-<hr></hr>
- 
-<h3><a href = "https://github.com/VenexCon/Resturant-Page">Resturant Page Project</a></h3>
-
-<h4> Packages </h4>
-
-<p> This project was completed using Webpack 5, JS and SCSS. This project was to aid in developing a reactive design and using JS to dynamically load DOM elements. </P>
-<p> Packages included webpack CLI, SASS DART loader, and other assorted loaders and assets. </P>
-<p> This project was completed as part of The Odin Project and focuses on dynamically created elements using JS to render and create the indiviudal components </p> 
-
-<h5><a href = "https://venexcon.github.io/Resturant-Page/#">Click here to view the live version</a></h5>
-
 <hr>
 
-<a href = "https://github.com/VenexCon/Libary-"><h3>Libary Project</h3> </a>
-<h4><a href ="https://venexcon.github.io/Libary-/">link to live version </a></h4> 
 
-<p> This project was intended to showcase the use of constructors, 
-    DOM manipulation and limited array functions. I emphasised good commits
-     and ensuring good commentary of the code throughout</p>
-
-<p>This code went through multiple refactors in relation to the main script.JS, and although it works much better than the first iteration, there are improvements to be made. </p>
-<p>No local storage was used, in the project</p>
-
-<hr> 
