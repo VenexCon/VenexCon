@@ -38,4 +38,11 @@ This project relies on the UseState hook, React's conditional rendering and prop
 <h5><a href ="https://whimsical-sopapillas-1efcc0.netlify.app">Check out the live version here</a></h5>
 <hr>
 
+<h3><a href = 'https://github.com/VenexCon/house-marketplace'>House Marketplace</a></h3>
+
+<p>A website built using React, DaisyUI, Firebase & deployed with Vercel. This website allows users to create a profile, create either Sale or Rental listings, with CRUD functionality.This project also includes integration with Google Auth allowing users to sign-in with an existing Google account.</p>
+
+<h5><a href ="https://house-marketplace-psi-three.vercel.app/">Check out the live version here</a></h5>
+<hr>
+
 
