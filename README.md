@@ -37,7 +37,7 @@ This project relies on the UseState hook, React's conditional rendering and prop
  
  <h5><a href ="https://whimsical-sopapillas-1efcc0.netlify.app">Check out the live version here</a></h5>
  
- <hr>
+<hr>
  
 <h3><a href = "https://github.com/VenexCon/Resturant-Page">Resturant Page Project</a></h3>
 
