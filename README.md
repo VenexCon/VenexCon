@@ -35,9 +35,9 @@
 <p> This project utilised REACT.js to enable a user to create a CV within the browser. This can then be printed to PDF, and used for occupation applications.
 This project relies on the UseState hook, React's conditional rendering and prop functions. This enables the user to switch between a preview view and an edit view, with easy to use and clear UI design.</p>
  
- <h5><a href ="https://whimsical-sopapillas-1efcc0.netlify.app">Check out the live version here</a></h5>
+<h5><a href ="https://whimsical-sopapillas-1efcc0.netlify.app">Check out the live version here</a></h5>
  
-<hr>
+<hr></hr>
  
 <h3><a href = "https://github.com/VenexCon/Resturant-Page">Resturant Page Project</a></h3>
 
