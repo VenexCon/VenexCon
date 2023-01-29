@@ -17,6 +17,13 @@
 
 <h2> Projects & Prototypes </h2> 
 
+<h3><a href = 'https://github.com/VenexCon/support-desk/blob/main/README.md'>Full-Stack Support Desk App</a></h3>
+
+<p>An application deployed to render.com, using React & Redux toolkit on the frontend along with basic CSS for the styling. Uses Node, Express and MongoDB to create a REST API for the backend. This app is a mock interface designed around a support desk application, allowing users to create a ticket regarding issues with their apple products. The application has a note feasture, allowing users to enter notes that can be seen by staff emembers. It also allows the users to close tickets once they are satisfied. </p>
+
+<h5><a href ="https://venex-support-desk.onrender.com/">Check out the live version here</a></h5>
+<hr>
+
 <h3><a target="_blank" href = "https://www.primebarber.co.uk/">PRIME Barbers Website</a></h3>
 <p>This website was created for a local barbershop that did not currently have one. This is a work in progress but the styling and content is 95% of the way there. I approached the local barber and asked if he would be interested in having a website that would showcase his business with a sleek and modern design. This website was created from a basic template, where the whole website is built within media queries, with the site becoming responsive, dependant upon the size of the desktop (vw). </p>
 <p>This was made using VS code, and Koala for the LESS compilation. The initial color scheme and pictures were chosen with the client, with regular updates on website progress along with requests for client input where required. No detailed design was put foward, so a sample of other sites were chosen prior to work beginning on the design of the site.</p>
