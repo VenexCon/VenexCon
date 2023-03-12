@@ -37,6 +37,13 @@
 
 <hr> 
 
+<h3><a href = 'https://github.com/VenexCon/WhoWantsRubbish--Landing'>Landing Page for Current Project</a></h3>
+
+<p>A landing page created using customCSS and BootStrap, this is a landing page for my upcoming application relating to upcycling and re-using typical house hold waste. The current application is under development and uses React, Node.js, MongoDB, Mongoose and React-redux js toolkit.This will be a typical CRUD application and uses JWT for authorization.Scheudled for launch in late 2023, currently building a following through Twitter and Instagram.  </p>
+
+<h5><a href ="https://www.whowantsrubbish.com/">Check out the live version here</a></h5>
+<hr>
+
 <h3><a href ="https://github.com/VenexCon/CV-project">C.V Creator</a></h3>
 
 <p> This project utilised REACT.js to enable a user to create a CV within the browser. This can then be printed to PDF, and used for occupation applications.
