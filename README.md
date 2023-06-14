@@ -37,9 +37,9 @@
 
 <hr> 
 
-<h3><a href = 'https://github.com/VenexCon/WhoWantsRubbish--Landing'>Landing Page for Current Project</a></h3>
+<h3><a href = 'https://github.com/VenexCon/WhoWantsRubbish--Landing'>WhoWantsRubbish</a></h3>
 
-<p>A landing page created using customCSS and BootStrap, this is a landing page for my upcoming application relating to upcycling and re-using typical house hold waste. The current application is under development and uses React, Node.js, MongoDB, Mongoose and React-redux js toolkit.This will be a typical CRUD application and uses JWT for authorization.Scheudled for launch in late 2023, currently building a following through Twitter and Instagram.  </p>
+<p>A landing page created using customCSS and BootStrap, this is a landing page for my upcoming application relating to upcycling and re-using typical house hold waste. The current application is under development and uses React, Node.js, MongoDB, Mongoose and React-redux js toolkit. This application features Stripe Paymentsi ntegration with a focus on webhooks to manage subscriptions and payments. This is a CRUD application using a purpose built REST API and uses JWT for authorization.Scheudled for launch in late 2023, currently building a following through Twitter and Instagram.  </p>
 
 <h5><a href ="https://www.whowantsrubbish.com/">Check out the live version here</a></h5>
 <hr>
