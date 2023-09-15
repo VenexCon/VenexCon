@@ -17,6 +17,13 @@
 
 <h2> Projects & Prototypes </h2> 
 
+<h3><a href = 'https://github.com/VenexCon/WWRMVP'>Full-Stack Social Recylcying App</a></h3>
+
+<p>An under development full-stack application that allows users to create either a user or business account that allows the creation of listings for desired items that can be donated for free. This app was designed to allow charities, shelters and start-ups to create listings where people could donate typically unwanted house-hold items. This app uses React on the front-end with react-redux for state management. Using TailwindCSS and react-tostify on the frontend for interactivity. The application includes stripe and webhooks to handle payment information and gateways allowing great security and confidence for customer payments. It also uses the MVC pattern in node.js on the backend. This app includes a fully working search feature allowing users to search by keywords , locations and distances. It features a fully working password reset feature utilising the accounts email address. The application also utilises bcrypt and JSCookies for verification. This app is still under development, but for now this can be run locally, the instructions can be found in the readMe. </p>
+
+<h5> Link will be updated once the app is live!</h5>
+<hr>
+
 <h3><a href = 'https://github.com/VenexCon/support-desk/blob/main/README.md'>Full-Stack Support Desk App</a></h3>
 
 <p>An application deployed to render.com, using React & Redux toolkit on the frontend along with basic CSS for the styling. Uses Node, Express and MongoDB to create a REST API for the backend. This app is a mock interface designed around a support desk application, allowing users to create a ticket regarding issues with their apple products. The application has a note feasture, allowing users to enter notes that can be seen by staff emembers. It also allows the users to close tickets once they are satisfied. </p>
