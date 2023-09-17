@@ -4,7 +4,6 @@
 
 - :pencil2: I’m currently learning JavaScript through The Odin Project and REACT through Traversy's UDEMY course. 
 
-- :calling: For enquiries please contact <strong>venexconsultant@outlook.com</strong>
  
  <p align="center">
  <h3>Competencies</h3>
