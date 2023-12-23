@@ -18,7 +18,7 @@
 
 <h2> Projects & Prototypes </h2> 
 
-<h3><a href = 'https://github.com/VenexCon/WWRMVP'>Full-Stack Social Recylcying App</a></h3>
+<h3><a href = 'https://github.com/VenexCon/WWRMVP'>Full-Stack Social Recycling App</a></h3>
 
 <p>An under development full-stack application that allows users to create either a user or business account that allows the creation of listings for desired items that can be donated for free. This app was designed to allow charities, shelters and start-ups to create listings where people could donate typically unwanted house-hold items. This app uses React on the front-end with react-redux for state management. Using TailwindCSS and react-tostify on the frontend for interactivity. The application includes stripe and webhooks to handle payment information and gateways allowing great security and confidence for customer payments. It also uses the MVC pattern in node.js on the backend. This app includes a fully working search feature allowing users to search by keywords , locations and distances. It features a fully working password reset feature utilising the accounts email address. The application also utilises bcrypt and JSCookies for verification. This app is still under development, but for now this can be run locally, the instructions can be found in the readMe. </p>
 
