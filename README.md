@@ -1,8 +1,6 @@
 <div>
  <h1>About Me!</h1>
- 👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into full-stack development. I am currently finishing up the WWRMVP, alongside learning ABAP BTP and upskilling in SQL.  
-
-- :pencil2: I’m currently learning ABAP though SAP Learning hub.
+ 👋 Hi, I’m @VenexCon I am a mechanical engineer who is wishing to transition career into full-stack development. I am currently working on a WebApp for the sustainbility sector.
 
 - For any enquiries please reach out via my website <a href="https://ceredigionwebdesign.com/">HERE</a>
 
